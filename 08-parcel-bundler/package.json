@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel public/index.html -p 5000"
   },
-  "author": "jaketrent",
+  "author": "utkarsh pathrabe",
   "license": "MIT",
   "dependencies": {
     "parcel-bundler": "^1.12.4",
