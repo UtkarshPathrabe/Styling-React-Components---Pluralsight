@@ -8,7 +8,7 @@
     "build": "webpack",
     "start": "sirv public"
   },
-  "author": "jaketrent",
+  "author": "utkarsh pathrabe",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
