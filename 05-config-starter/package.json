@@ -5,7 +5,7 @@
   "private": true,
   "main": "src/index.js",
   "scripts": {},
-  "author": "jaketrent",
+  "author": "utkarsh pathrabe",
   "license": "MIT",
   "devDependencies": {
     "react": "16.13.1",
